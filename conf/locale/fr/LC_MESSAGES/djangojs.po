@@ -2,7 +2,7 @@
 # edX translation file.
 # Copyright (C) 2015 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# 
+#
 # Translators:
 # SALHI Aissam <ais.salhy@gmail.com>, 2014
 # anaseha <anaselhadjamor@gmail.com>, 2014
@@ -46,7 +46,7 @@
 # edX translation file.
 # Copyright (C) 2015 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# 
+#
 # Translators:
 # SALHI Aissam <ais.salhy@gmail.com>, 2014
 # Bertrand Marron <bertrand.marron@gmail.com>, 2014
@@ -76,7 +76,7 @@
 # edX translation file
 # Copyright (C) 2015 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# 
+#
 # Translators:
 # Assyass Mahmoud <mahmoud.assyass@edu.uiz.ac.ma>, 2015
 # bekairi tahar <tahar48omar@gmail.com>, 2014
@@ -96,7 +96,7 @@
 # edX translation file
 # Copyright (C) 2015 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# 
+#
 # Translators:
 # Daniel Le Berre, 2014
 # Gérard Vidal <Gerard.Vidal@ens-lyon.fr>, 2014-2015
@@ -3259,7 +3259,7 @@ msgid ""
 "correct."
 msgstr ""
 "Erreur dans le démarrage de la tâche de recalcul du score de l'examen "
-"d'entrée pour l'étudiant  '{ student_id}'. Assurez-vous que l'examen "
+"d'entrée pour l'étudiant  '{student_id}'. Assurez-vous que l'examen "
 "d'entrée comporte des exercices et que l'identifiant de l'étudiant est "
 "correct."
 

@@ -2,7 +2,7 @@
 # edX translation file.
 # Copyright (C) 2015 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# 
+#
 # Translators:
 # anaseha <anaselhadjamor@gmail.com>, 2014
 # Bertrand Marron <bertrand.marron@gmail.com>, 2014-2015
@@ -58,7 +58,7 @@
 # edX translation file.
 # Copyright (C) 2015 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# 
+#
 # Translators:
 # Bertrand Marron <bertrand.marron@gmail.com>, 2014
 # Encolpe Degoute <inactive+encolpe@transifex.com>, 2013
@@ -86,7 +86,7 @@
 # edX translation file
 # Copyright (C) 2015 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# 
+#
 # Translators:
 # SALHI Aissam <ais.salhy@gmail.com>, 2014
 # Bertrand Marron <bertrand.marron@gmail.com>, 2013-2015
@@ -132,7 +132,7 @@
 # edX translation file
 # Copyright (C) 2015 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# 
+#
 # Translators:
 # Bertrand Marron <bertrand.marron@gmail.com>, 2013-2015
 # Christopher Castermane <christopher.castermane@student.uclouvain.be>, 2014
@@ -159,7 +159,7 @@
 # edX translation file
 # Copyright (C) 2013 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# 
+#
 # Translators:
 # Olivier Marquez <oliviermarquez@gmail.com>, 2013
 # Olivier Marquez <oliviermarquez@gmail.com>, 2013
@@ -167,7 +167,7 @@
 # edX translation file
 # Copyright (C) 2015 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# 
+#
 # Translators:
 # Bertrand Marron <bertrand.marron@gmail.com>, 2014
 # Christopher Castermane <christopher.castermane@student.uclouvain.be>, 2014
@@ -2131,6 +2131,8 @@ msgid ""
 "Your answers have been saved but not graded. Click '{button_name}' to grade "
 "them."
 msgstr ""
+"Vos réponses ont été enregistrées mais pas encore évaluées. Cliquez sur "
+"'{button_name}' pour les évaluer."
 
 #. Translators: A student must "make an attempt" to solve the problem on the
 #. page before they can reset it.
@@ -7496,7 +7498,7 @@ msgstr "Cours ajouté au panier."
 
 #: lms/djangoapps/shoppingcart/views.py
 msgid "Discount does not exist against code '{code}'."
-msgstr "Aucune remise n'existe pour le code '{course_id}'."
+msgstr "Aucune remise n'existe pour le code '{code}'."
 
 #: lms/djangoapps/shoppingcart/views.py
 msgid "This enrollment code ({enrollment_code}) is no longer valid."
@@ -21063,3 +21065,345 @@ msgstr "Vous voulez changer vos paramètres ?"
 #: lms/templates/dashboard.html
 msgid "Click the arrow next to your username above."
 msgstr "Cliquez sur la flèche à côté de votre nom de compte."
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "DISCUSSION HOME:"
+msgstr "Discussions :"
+
+#: lms/templates/discussion/_underscore_templates.html
+#: lms/templates/commerce/provider.underscore
+#: lms/templates/commerce/receipt.underscore
+#: lms/templates/discovery/course_card.underscore
+msgid "gettext("
+msgstr "gettext("
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Find discussions"
+msgstr "Trouver des discussions"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Focus in on specific topics"
+msgstr "Se concentrer sur des sujets spécifiques."
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Search for specific posts"
+msgstr ""
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Sort by date, vote, or comments"
+msgstr "Trier par date, vote, ou commentaires"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Engage with posts"
+msgstr "Participer avec des messages"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Upvote posts and good responses"
+msgstr "Promouvoir des messages et des bonnes réponses"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Report Forum Misuse"
+msgstr "Signaler un abus d'utilisation du forum"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Follow posts for updates"
+msgstr "Suivre les nouveautés dans les fils de discussion"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Receive updates"
+msgstr "Recevoir les mises à jour"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Toggle Notifications Setting"
+msgstr "Changer les paramètres des notifications"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid ""
+"Check this box to receive an email digest once a day notifying you about "
+"new, unread activity from posts you are following."
+msgstr ""
+"Cocher cette case pour recevoir une fois par jour un e-mail récapitulatif "
+"des nouveautés dans les fils de discussion que vous suivez."
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Mark as Answer"
+msgstr "Marquer comme Réponse"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Unmark as Answer"
+msgstr "Ne plus marquer comme Réponse"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Open"
+msgstr "Ouvrir"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Endorse"
+msgstr "Approuver"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Unendorse"
+msgstr "Refuser"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Follow"
+msgstr "Suivre"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Unfollow"
+msgstr "Ne plus suivre"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Pin"
+msgstr "Épingler"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Unpin"
+msgstr "Ne plus épingler"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Report abuse"
+msgstr "Dénoncer un abus"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Report"
+msgstr "Dénoncer"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Unreport"
+msgstr "Ne plus dénoncer"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Vote for this post,"
+msgstr "Voter pour ce message, "
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Visible To:"
+msgstr "Visible par :"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "All Groups"
+msgstr "Tous les groupes"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid ""
+"Discussion admins, moderators, and TAs can make their posts visible to all "
+"students or specify a single cohort."
+msgstr ""
+"Les administrateurs, modérateurs du forum, et les Assistants Pédagogiques "
+"peuvent rendre leurs messages visibles par tous les étudiants ou spécifier "
+"uniquement une cohorte."
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Title:"
+msgstr "Titre :"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Add a clear and descriptive title to encourage participation."
+msgstr "Ajouter un titre clair et explicite pour encourager la participation."
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Enter your question or comment"
+msgstr "Saisir votre question ou commentaire"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "follow this post"
+msgstr "Suivre ce message"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "post anonymously"
+msgstr "Écrire anonymement"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "post anonymously to classmates"
+msgstr "Écrire anonymement aux camarades de classe"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Add Post"
+msgstr "Ajouter un message"
+
+#: lms/templates/discussion/_underscore_templates.html
+#: lms/templates/discussion/mustache/_profile_thread.mustache
+msgid "This thread is closed."
+msgstr "Ce fil est fermé"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "View discussion"
+msgstr "Afficher la discussion"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Editing comment"
+msgstr "Commentaire en cours d'édition"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Update comment"
+msgstr "Mettre à jour le commentaire"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "posted %(time_ago)s by %(author)s"
+msgstr "posté %(time_ago)s par %(author)s"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Reported"
+msgstr "Reporté"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Editing post"
+msgstr "Éditer le message"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Edit post title"
+msgstr "Éditer le titre du message"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Update post"
+msgstr "Mettre à jour le message"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "discussion"
+msgstr "Discussion"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "answered question"
+msgstr "Question avec réponse"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "unanswered question"
+msgstr "Question sans réponse"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Pinned"
+msgstr "Épinglé"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "By: Staff"
+msgstr "Par : l'équipe pédagogique"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "By: Community TA"
+msgstr "Par : Assistant"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "fmt"
+msgstr ""
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid ""
+"%(comments_count)s %(span_sr_open)scomments (%(unread_comments_count)s "
+"unread comments)%(span_close)s"
+msgstr ""
+"%(comments_count)s %(span_sr_open)scommentaires (%(unread_comments_count)s "
+"commentaires non lus)%(span_close)s"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "%(comments_count)s %(span_sr_open)scomments %(span_close)s"
+msgstr "%(comments_count)s %(span_sr_open)scommentaires %(span_close)s"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Editing response"
+msgstr "Éditer la réponse"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Update response"
+msgstr "Mettre à jour la réponse"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "marked as answer %(time_ago)s by %(user)s"
+msgstr "marqué comme réponse %(time_ago)s par %(user)s"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "marked as answer %(time_ago)s"
+msgstr "marqué comme réponse %(time_ago)s"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "endorsed %(time_ago)s by %(user)s"
+msgstr "approuvé %(time_ago)s par %(user)s"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "endorsed %(time_ago)s"
+msgstr "approuvé %(time_ago)s"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "fmts"
+msgstr ""
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Add a comment"
+msgstr "Ajouter un commentaire"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "This post is visible only to %(group_name)s."
+msgstr "Ce message est visible seulement par %(group_name)s."
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "This post is visible to everyone."
+msgstr "Ce message est visible par tous."
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "%(post_type)s posted %(time_ago)s by %(author)s"
+msgstr "%(post_type)s posté %(time_ago)s par %(author)s"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Related to: %(courseware_title_linked)s"
+msgstr "En rapport à: %(courseware_title_linked)s"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Post type:"
+msgstr "Type de message :"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Question"
+msgstr "Question"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid ""
+"Questions raise issues that need answers. Discussions share ideas and start "
+"conversations."
+msgstr ""
+"Les Questions soulèvent des problèmes qui appellent une réponse. Les "
+"Discussions partagent des idées et lancent des conversations."
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Add a Response"
+msgstr "Ajouter une réponse"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Post a response:"
+msgstr "Écrire une réponse :"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Expand discussion"
+msgstr "Déplier la discussion"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Collapse discussion"
+msgstr "Replier la discussion"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Topic Area:"
+msgstr "Sujet :"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Discussion topics; current selection is:"
+msgstr ""
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Filter topics"
+msgstr "Filtrer les sujets"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Add your post to a relevant topic to help others find it."
+msgstr ""
+"Ajouter votre contribution à un sujet pertinent pour aider les autres "
+"personnes à la trouver."
+
+#: lms/templates/discussion/mustache/_user_profile.mustache
+msgid "Active Threads"
+msgstr "Fils actifs"
+
+#: common/lib/xmodule/xmodule/capa_base.py
+msgid ""
+"Your answers have been saved but not graded. Click 'Check' to grade them."
+msgstr ""
+"Vos réponses ont été enregistrées mais pas encore évaluées. Cliquez sur "
+"\"Valider\" pour les évaluer."
