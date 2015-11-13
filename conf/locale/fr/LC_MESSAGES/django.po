@@ -1416,11 +1416,11 @@ msgstr "Ceci est partiellement correct."
 
 #: common/lib/capa/capa/inputtypes.py
 msgid "This is unanswered."
-msgstr ""
+msgstr "Ceci est non répondu."
 
 #: common/lib/capa/capa/inputtypes.py
 msgid "This is being processed."
-msgstr ""
+msgstr "Ceci est en cours de traitement."
 
 #. Translators: 'ChoiceGroup' is an input type and should not be translated.
 #: common/lib/capa/capa/inputtypes.py
@@ -21365,6 +21365,10 @@ msgstr ""
 
 #: lms/templates/discussion/_underscore_templates.html
 msgid "Add a Response"
+msgstr "Ajouter une réponse"
+
+#: lms/templates/discussion/_underscore_templates.html
+msgid "Add A Response"
 msgstr "Ajouter une réponse"
 
 #: lms/templates/discussion/_underscore_templates.html
