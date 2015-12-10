@@ -608,6 +608,10 @@ msgstr ""
 msgid "Password: "
 msgstr "Mot de passe : "
 
+#: common/djangoapps/student/forms.py
+msgid "Unauthorized email address."
+msgstr "Adresse e-mail non autorisée."
+
 #: common/djangoapps/student/middleware.py
 msgid ""
 "Your account has been disabled. If you believe this was done in error, "
