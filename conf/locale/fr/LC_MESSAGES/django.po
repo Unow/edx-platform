@@ -21408,3 +21408,14 @@ msgstr ""
 #: lms/templates/discussion/mustache/_user_profile.mustache
 msgid "Active Threads"
 msgstr "Fils actifs"
+
+#: common/lib/xmodule/xmodule/capa_base.py
+msgid ""
+"Your answers have been saved but not graded. Click 'Check' to grade them."
+msgstr ""
+"Vos réponses ont été enregistrées mais pas encore évaluées. Cliquez sur "
+"\"Valider\" pour les évaluer."
+
+#: lms/templates/dashboard.html
+msgid "Current Courses"
+msgstr "Cours disponibles"
