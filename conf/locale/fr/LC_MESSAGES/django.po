@@ -12359,7 +12359,7 @@ msgstr "L'inscription à ce cours se fait sur invitation seulement"
 
 #: lms/templates/courseware/course_about.html
 msgid "Enrollment is Closed"
-msgstr "Les inscriptions sont fermées"
+msgstr "Les inscriptions sont fermées et rouvriront prochainement"
 
 #: lms/templates/courseware/course_about.html
 msgid "Add {course_name} to Cart <span>({price} USD)</span>"
